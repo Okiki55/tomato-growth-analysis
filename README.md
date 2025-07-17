@@ -32,5 +32,19 @@ This project performs exploratory data analysis (EDA) on a tomato plant growth d
 ## 📷 Sample Output
 
 ![plot preview](example_chart.png) *(upload a chart screenshot after running code)*
+## 📊 Visualizations
+
+### Correlation Heatmap
+![Correlation Heatmap](screenshot/Correlation%20Heatmap.png)
+
+### Visualisation 1
+![Visualisation 1](screenshot/Visualisation%201.png)
+
+### Visualisation 2
+![Visualisation 2](screenshot/Visualization%202.png)
+
+### Visualisation 3
+![Visualisation 3](screenshot/Visualization%203.png)
+
 
 ---
